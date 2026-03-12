@@ -1,6 +1,6 @@
 # Bartosz-Junior94
 
-# Olá, eu sou [Seu Nome] 👋
+# Olá, eu sou Júnior 👋
 
 ### Backend Developer | Python | Django Rest Framework | SQL
 
@@ -11,9 +11,8 @@ Sou um desenvolvedor backend apaixonado por construir APIs escaláveis, robustas
 
 - 🐍 **Linguagem:** Python 3.x
 - 🌐 **Web Frameworks:** Django, Django Rest Framework (DRF)
-- 🗄️ **Bancos de Dados:** PostgreSQL, MySQL, SQLite, Redis
-- 🛠 **Ferramentas:** Docker, Git, Celery, Linux, Pytest
-- ☁️ **Cloud/DevOps:** AWS (S3, EC2), Docker Compose
+- 🗄️ **Bancos de Dados:** PostgreSQL, MySQL, SQLite
+- 🛠 **Ferramentas:** Docker, Git, Linux, Pytest
 
 ---
 
